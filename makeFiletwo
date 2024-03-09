@@ -1,0 +1,7 @@
+all: 
+	g++ -std=c++11 two.cpp -o two
+
+    or
+    1 -> ./two.cpp 
+    2-> sample.txt must be in the output section
+    3-> ./two sample.txt 2

@@ -1,0 +1,7 @@
+all:
+	g++ three.cpp -o three
+
+
+or 
+  ./three.cpp ( int compiler c++11 /c++ 17)
+  
